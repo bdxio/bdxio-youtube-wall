@@ -1,0 +1,145 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: sans-serif;
+  font-size: 13px;
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+h1 {
+  margin: 0;
+  padding: 16px 32px 8px 32px;
+}
+
+.sponsors {
+  align-items: flex-end;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: calc(50% - 203px);
+}
+
+.sponsor__link {
+  align-items: center;
+  display: inline-flex;
+  height: 80px;
+  justify-content: center;
+  padding: 8px;
+  width: 150px;
+}
+.sponsor__image {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.main {
+  align-items: flex-start;
+  display: flex;
+  flex-shrink: 1;
+  flex-wrap: wrap;
+  height: 100%;
+  justify-content: center;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+.twitter {
+  flex-shrink: 0;
+  height: 100%;
+  padding: 4px;
+  position: relative;
+  width: 400px;
+}
+.twitter::after {
+  background-image: linear-gradient(to bottom right, #cc0625, #fac319);
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+.twitter iframe {
+  max-height: 100%;
+}
+
+.talks {
+  display: flex;
+  width: 100%;
+}
+.talk {
+  align-items: center;
+  background: #eeeeee;
+  border-radius: 10px;
+  display: flex;
+  flex-basis: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 8px 6px;
+  padding: 16px;
+  position: relative;
+}
+.talk--with-speakers {
+  align-items: flex-start;
+}
+.talk__title {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+.talk__room {
+  font-size: 14px;
+  font-weight: 500;
+}
+.talk__level {
+  font-style: italic;
+}
+.talk__category {
+  border: 1px solid currentColor;
+  display: inline-block;
+  font-size: 12px;
+  margin: 10px 0;
+  padding: 2px 4px;
+}
+.speakers {
+  display: none;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+.speaker {
+  display: flex;
+  margin-top: 8px;
+}
+.speaker__photo {
+  border-radius: 50%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  height: 32px;
+  margin-right: 4px;
+  width: 32px;
+}
+.speaker__infos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.speaker__name {
+  font-size: 14px;
+  font-weight: 500;
+}
+.speaker__company {
+  font-style: italic;
+}
