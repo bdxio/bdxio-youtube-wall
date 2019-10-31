@@ -12,6 +12,7 @@
         "company": "Velvet Lemons Consulting",
         "photoURL": "https://avatars3.githubusercontent.com/u/2362300?v=4",
         "bio": "Développeur polyglotte ",
+        "twitter": "@Fabinout",
         "address": "Bordeaux, France"
       }
     ],
@@ -32,6 +33,7 @@
         "company": "Zenika",
         "photoURL": "https://avatars0.githubusercontent.com/u/1656170?v=4",
         "bio": "Passionate software developer since 2003. Professional since 2013. I like to play with code just for fun as well as make useful stuff out of it.",
+        "twitter": "@mercury_wood",
         "address": "Nantes, France"
       }
     ],
@@ -52,6 +54,7 @@
         "company": "DEAL Informatique",
         "photoURL": "https://avatars3.githubusercontent.com/u/7702519?v=4",
         "bio": "Après plus de 15 ans passés à concevoir des solutions de gestion au sein de différents éditeurs, Christophe est toujours aussi curieux et passionné pour apprendre, tester et partager autour des différentes technologies, en particulier le Web, et l'IA.",
+        "twitter": "@chriscamicas",
         "address": "Mérignac, France"
       }
     ],
@@ -72,6 +75,7 @@
         "company": "Magellium",
         "photoURL": "https://2017.devfesttoulouse.fr/images/speakers/nicolas-decoster.jpg",
         "bio": "Informaticien curieux depuis 35 ans, de métier depuis 20 ans (principalement dans le spatial). Non spécialiste touche à tout : du développement logiciel à l'étude scientifique, du développement d'algorithmes de traitement à la mise en œuvre de systèmes, de la programmation en C++ ou Python à l'utilisation des technos Web, de la petite appli en ligne de commande aux IHM ou aux systèmes distribués. Ingénieur chez Magellium et co-fondateur et animateur à la Compagnie du Code.",
+        "twitter": "@nnodot",
         "address": "Toulouse, France"
       }
     ],
@@ -92,6 +96,7 @@
         "company": "Magellium",
         "photoURL": "https://pbs.twimg.com/profile_images/573162928913833986/mNWlOcuk_normal.png",
         "bio": "Informaticien curieux depuis 35 ans, de métier depuis 20 ans (principalement dans le spatial). Non spécialiste touche à tout : du développement logiciel à l'étude scientifique, du développement d'algorithmes de traitement à la mise en œuvre de systèmes, de la programmation en C++ ou Python à l'utilisation des technos Web, de la petite appli en ligne de commande aux IHM ou aux systèmes distribués. Ingénieur chez Magellium et co-fondateur et animateur à la Compagnie du Code.",
+        "twitter": "@nnodot",
         "address": "Toulouse, France"
       },
       {
@@ -99,6 +104,7 @@
         "company": "SchoolMouv",
         "photoURL": "https://avatars1.githubusercontent.com/u/22011253?v=4",
         "bio": "Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. \nCela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019. Et je m'épanouis totalement dans cette nouvelle activité !",
+        "twitter": "@tactless7",
         "address": "Toulouse, France"
       }
     ],
@@ -119,6 +125,7 @@
         "company": "Capgemini",
         "photoURL": " https://lh5.googleusercontent.com/-AZCmJwbH86k/AAAAAAAAAAI/AAAAAAAAAEg/K83eBC-pZU4/photo.jpg",
         "bio": "",
+        "twitter": "@JuGuillerm",
         "address": "Bordeaux, France"
       }
     ],
@@ -145,6 +152,7 @@
         "name": "Géraud Dugé de Bernonville",
         "photoURL": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
         "bio": "",
+        "twitter": "@geraudster",
         "address": null
       }
     ],
@@ -185,6 +193,7 @@
         "company": "BeTomorrow",
         "photoURL": "https://lh3.googleusercontent.com/-FR8n2PQEqVA/AAAAAAAAAAI/AAAAAAAAAOc/UzvxVpVOtRM/photo.jpg",
         "bio": "En tant que product manager chez BeTomorrow mon travail est d'accompagner nos clients pour que leur produit soit le meilleur possible et les aider à raconter une histoire cohérente et efficace.",
+        "twitter": "@marc_allaire",
         "address": "Bordeaux, France"
       }
     ],
@@ -205,6 +214,7 @@
         "company": "Ippon Technologies",
         "photoURL": "http://www.jamkey.fr/wp-content/uploads/2011/04/sebastien-moreno-320x320.jpg",
         "bio": "Consultant DevOps passionné chez @ Ippon Technologies, mon expérience est composée de nombreuses missions de conseil en tant que Développeur Java, Architecte technique, expert DevOps. J'ai accompagné durant ces années mes clients pour les aider à définir et implémenter leur stratégies DevOps avec toujours l'idée de promouvoir une démarche Agile.",
+        "twitter": "@sebastienmoreno",
         "address": "Bordeaux, France"
       }
     ],
@@ -225,6 +235,7 @@
         "company": "Google",
         "photoURL": "https://lh4.googleusercontent.com/-EEMGFGkf1t8/AAAAAAAAAAI/AAAAAAAAoIk/bA90o7Upirg/photo.jpg",
         "bio": "Yufeng is a Developer Advocate focusing on Cloud AI, where he is working to make machine learning more understandable and usable for all. He is the creator of the YouTube series AI Adventures, at yt.be/AIAdventures, exploring the art, science, and tools of machine learning.\nHe is enjoys hearing about new and interesting applications of machine learning, share your use case with him on Twitter @YufengG\n",
+        "twitter": "@YufengG",
         "address": "New York City, NY, USA"
       }
     ],
@@ -245,6 +256,7 @@
         "company": "Google",
         "photoURL": "https://avatars.io/twitter/glaforge",
         "bio": "During the day, **Guillaume Laforge** is **Developer Advocate** for **Google Cloud Platform**, covering a wide range of topics from serverless approaches, to chatbots or machine learning. At night, Guillaume wears his **Apache Groovy** hat, or you can hear him make jokes on the French podcast **Les Cast Codeurs** !",
+        "twitter": "@glaforge",
         "address": "Paris, France"
       }
     ],
@@ -272,6 +284,7 @@
         "company": "4SH",
         "photoURL": "https://lh4.googleusercontent.com/-GeHoWJZggGI/AAAAAAAAAAI/AAAAAAAAAJI/bjyV4SYZcTA/photo.jpg",
         "bio": "Passionated technical leader working @ 4SH since 2013. \nENSEIRB-MATMECA graduated (2013).\nBDX I/O (2015 to 2017) organizer.",
+        "twitter": "@eoriou",
         "address": null
       }
     ],
@@ -292,6 +305,7 @@
         "company": "AT Internet",
         "photoURL": "https://avatars2.githubusercontent.com/u/2222707?v=4",
         "bio": "",
+        "twitter": "@cachavezley",
         "address": "Bordeaux, France"
       },
       {
@@ -373,6 +387,7 @@
         "company": "uni rakun",
         "photoURL": "https://lh6.googleusercontent.com/-mQkS9Mf9bIE/AAAAAAAAAAI/AAAAAAAAGlc/rLr6e5L5qDU/photo.jpg",
         "bio": "Fabien JUIF est indépendant à Nantes.\n\nFan de l'écosystème Javascript il espère pouvoir partager un peu de sa passion avec vous !\n\nCréateurs de plusieurs librairies opensource, dont : \n - [myrtille](https://github.com/fabienjuif/myrtille)\n - [k-ramel](https://github.com/unirakun/k-ramel)\n - [k-redux-router](https://github.com/unirakun/k-redux-router/)\n - [k-redux-factory](https://github.com/unirakun/k-redux-factory)",
+        "twitter": "@fabienjuif",
         "address": "Nantes"
       }
     ],
@@ -399,6 +414,7 @@
         "company": "ManoMano",
         "photoURL": "https://miro.medium.com/max/3150/1*VZNmebet_aHNtSbknBKSeA.jpeg",
         "bio": "",
+        "twitter": "@fotozik",
         "address": "Bordeaux, France"
       }
     ],
@@ -419,6 +435,7 @@
         "company": "AT INTERNET",
         "photoURL": "http://luminusdev.azurewebsites.net/toto.JPG",
         "bio": "Ingénieur Data au sein de l'équipe Data Science à AT Internet. Après une formation en recherche opérationnelle, je travaille maintenant sur tous les aspects d'un produit : conception, modélisation, stockage et mise à disposition des données, interface. Et Scrum Master une partie du temps.",
+        "twitter": "@LuminusDev",
         "address": null
       },
       {
@@ -446,6 +463,7 @@
         "company": "Stack Labs",
         "photoURL": "https://lh6.googleusercontent.com/-PnSLfUVcwdg/AAAAAAAAAAI/AAAAAAAAAAo/QFg7Umhc_dQ/photo.jpg",
         "bio": "Développeur Java depuis plusieurs années, j'adore la tech et mon sujet de prédilection du moment est l'architecture microservices !\n",
+        "twitter": "@pommeDouze",
         "address": "Toulouse, France"
       }
     ],
@@ -465,6 +483,7 @@
         "company": "Stack Labs",
         "photoURL": "https://drive.google.com/thumbnail?id=1XqJwJ9Hompm8yDYhFsm8fyhCW6-OGU8g",
         "bio": "Google Developer Expert on Google Cloud, I am above all passionate about tech, languages, infrastructure, and automation. \n\nJava, Kotlin, Javascript or TypeScript are my day-to-day languages. I deploy all of those on the Google Kubernetes Engine with the Continuous Integration of Gitlab 🚀. \n\nAddict of agility and devops, some of my work was to help teams to follow those philosophies. From the analysis of the code quality (with code-review or static analysis tool) to the setup of unit or end-to-end tests and ending by the continuous deployment of the application directly on the Google Cloud platform. \n\nMy mantra is to go to production as soon as possible! In my activity in Stack Labs and also in my personal time, I contribute on open source projects (Spring boot, Spring Security, Angular, Protractor, Jest schematics for Angular, NgxOpenlayers...). . \n\nI'm involved in the GDG Toulouse, on the organization part (for the video capture part) and to provide some talks too. Following that, I'm also into the DevFest Toulouse team since day 1. I'm mainly managing the website during the Devfest season. Thanks to that, I became the first external contributor to the GDG-X/hoverboard project. \n\nI'm currently CTO (and one of the founder) of Stack Labs, a company specialized in architecture and development of cloud solution. I supervise about twenty passionate and talented developers in their missions and during our internal events",
+        "twitter": "@davinkevin",
         "address": "Toulouse, France"
       }
     ],
@@ -485,6 +504,7 @@
         "company": "onepoint",
         "photoURL": "https://lh3.googleusercontent.com/-cc1mcrhDQTw/AAAAAAAAAAI/AAAAAAAACsY/m9eXgjM5unA/photo.jpg",
         "bio": "Développeur  passionné, Nicolas évolue depuis 10 ans essentiellement sur des projets Java (EE).\n\nAddict aux outils innovants et sensible aux pratiques agiles, c'est d'abord avec les notions de CD/CI qu'il aborde ces notions d'amélioration continue, puis plus récemment dans la mouvance DevOps, où il trouve refuge !\n\nC'est finalement dans un rôle de Tech lead (alias \"couteau suisse\") qu'il intervient, et tente (parfois avec succès) de faciliter la vie de ses co-developpeurs dans l'esprit bienveillant du Software Crafter.",
+        "twitter": "@nicgiro",
         "address": "Nantes, France"
       }
     ],
@@ -505,6 +525,7 @@
         "company": "AppSecFR",
         "photoURL": "https://pbs.twimg.com/profile_images/640509235269378048/HWf2Dt4b_normal.jpg",
         "bio": "Sébastien Gioria est Expert en Sécurité Applicative, Chapter Leader de l’OWASP pour la France (http://www.owasp.fr), membre du OWASP Global Education Committee et Expert Judiciaire. Il a une expérience de plus de 20 ans dans la sécurité des Systèmes d’Informations au sein de postes techniques ou à responsabilité dans des banques, assurances, telecoms.\n\nSébastien a présenté divers sujets dans des conférences en France ou à l’étranger.\n\nBlog: https://appsec.fr",
+        "twitter": "@SPoint",
         "address": "Niort, France"
       }
     ],
@@ -525,6 +546,7 @@
         "company": "Dernier Cri",
         "photoURL": "https://i.ibb.co/tx7cmn3/62387336-10218823493562882-3704671101121462272-o.jpg",
         "bio": "Je suis Lead UX Designer à Lille dans l'agence Dernier Cri. Je supporte l’empathie et l'exigence au service de parcours utilisateurs intelligents quel qu'en soit la cible et le support.",
+        "twitter": "@TellYourMummy",
         "address": "Lille, France"
       }
     ],
@@ -545,6 +567,7 @@
         "company": "42 skillz",
         "photoURL": "https://static.ncrafts.io/speakers/ThomasPierrainNB2.jpg",
         "bio": "Co-organisateur du meetup __*DDD FR*__   mais aussi du meetup __*BDD Paris*__.    Speaker international (mais avec un accent de ...).\n\nMalgré une certaine passion pour le développement logiciel (écoles XP & DDD) ainsi que pour le travail en équipe, Thomas ne désespère pas de trouver un autre moyen d’expression ou sa créativité sera -il l’espère- un peu plus reconnue.\n \nAprès s’être essayé en vain à la musique, au Tai-Chi-Chuan, à la cuisine, au poker-live et à la philosophie… Thomas le sait : un jour il sera astrophysicien ou même publicitaire (d’ailleurs il offrira -20% sur l’esprit de la forêt lors de son prochain talk).\n",
+        "twitter": "@tpierrain",
         "address": "Paris, France"
       }
     ],
@@ -565,6 +588,7 @@
         "company": "Zenika",
         "photoURL": "https://pbs.twimg.com/profile_images/826194184428204033/RDkzV_7k_400x400.jpg",
         "bio": "Membre de l'équipe AYA @ Zenika.\n\nJe suis passionné du Web et des technologies qui gravitent autour. J'aime le W3C, le TC39 (quand il ne smoosh pas devant moi), le WhatWG, les Frameworks JS (front & back) et la vanille.\n\nTransmettre ma passion pour l'artisanat web occupe une part importante de mon travail de développeur (meetups, formations, conférences, encadrement de stagiaires).\n\nVive le web, Vive le JS et Vive l'artisanat !\n",
+        "twitter": "@berthel350",
         "address": "Paris, France"
       },
       {
@@ -572,6 +596,7 @@
         "company": "Predictice",
         "photoURL": "https://lh5.googleusercontent.com/-UyalCSSFXaA/AAAAAAAAAAI/AAAAAAAAEWQ/9fl4_ICI0M8/photo.jpg",
         "bio": "Tomber dans la soupe du design étant petite, je suis actuellement Product designer. Je parle avec autant de passion de typographie que de flow utilisateurs ! Issue du print et du branding, j’ai pris le choix de m’orienter vers le design d’interfaces à la fois en UI et en UX design. À cette occasion, j’ai découvert l’Atomic Design et ce que ce cadre peut apporter à une équipe et notamment dans un contexte Agile.",
+        "twitter": "@cecilefreydf",
         "address": "Paris, France"
       }
     ],
@@ -592,6 +617,7 @@
         "company": "PROS",
         "photoURL": "https://pbs.twimg.com/profile_images/998304606160486400/rAB6aJxV_400x400.jpg",
         "bio": "Développeuse depuis plus de 10 ans, je me passionne depuis le début pour le front-end et l'accessibilité. Je suis une aficionada de Javascript, React, CSS et WCAG.\nJ'ai aussi la chance de faire partie depuis 3 ans des organisateurs de la conférence Riviera DEV, qui se déroule chaque année à Sophia-Antipolis.",
+        "twitter": "mlegait",
         "address": "Valbonne, France"
       }
     ],
@@ -612,6 +638,7 @@
         "company": "Chandago®",
         "photoURL": "https://drive.google.com/thumbnail?id=1TvfrN_syIsodIRsOSUb8aIQpzq-7H5j3",
         "bio": "Je suis une personne sociable, dynamique et responsable. Je parle couramment l'anglais et le français, et mes langues maternelles sont le basque et l'espagnol.\n\n\nJ'aime bien apprendre des nouvelles choses, que ce soit des technologies, des méthodologies de travail, des nouvelles pratiques ...\nMon implication et ma participation aux conférences techniques le montrent, que ce soit en tant que participante ou oratrice. \nJe suis une passionnée de la Facilitation Graphique et du Sketchnoting, que j'essaie de mettre en place dans mon quotidien (dans le contexte professionnel et personnel). Je suis une vraie convaincue des bénéfices que ces techniques apportent.\n\n\nAprès 4 ans passés dans le SI en société de services (développement Web Java/JEE, Agile/Scrum, TDD), j’ai eu la chance d’intégrer Lectra en tant que développeur Web.\n\nRécemment, j'ai eu l'opportunité de changer de poste pour dévenir Component Owner (Garant des Composants Techniques Cloud).",
+        "twitter": "@ane_naiz",
         "address": "Bordeaux, France"
       }
     ],
@@ -632,6 +659,7 @@
         "company": "Toki",
         "photoURL": "https://lh3.googleusercontent.com/-Xw-w4yxQkJM/AAAAAAAAAAI/AAAAAAAAAqA/5rG7YVfMr0Q/photo.jpg",
         "bio": "Co-Founder and Director of the mobile application agency Toki (www.toki.agency).\n\nMobile developer since 2011, I am also Co-Founder and Organizer of the GDG Nantes Android (https://www.meetup.com/fr-FR/gdg_nantes_android/).\n\nTechnology enthusiast, highly convinced that technology and mobile devices can improve productivity for small as well as for big companies.\n\n\n#### Speaker references\n\n* [Twitter Profile] (https://twitter.com/RobinCaroff)\n* [Linkedin Profile] (https://www.linkedin.com/in/robincaroff/)\n* [Talks (Speaker Deck)] (https://speakerdeck.com/robincaroff)",
+        "twitter": "@robin.caroff",
         "address": "Nantes"
       },
       {
@@ -639,6 +667,7 @@
         "company": "ASI",
         "photoURL": "https://lh6.googleusercontent.com/-EPCphRSOO1Y/AAAAAAAAAAI/AAAAAAAAARo/JCN5RTGQPos/photo.jpg",
         "bio": "\"Job Crafter\" en ESN, dev mobile (Android/iOS/Hybride), je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
+        "twitter": "@ptibulle",
         "address": "Nantes, France"
       },
       {
@@ -646,6 +675,7 @@
         "company": "Sopra Steria",
         "photoURL": "https://lh5.googleusercontent.com/-byOf_tqMsmk/AAAAAAAAAAI/AAAAAAAAAMo/tYE1a3gNwWk/photo.jpg",
         "bio": "## FRENCH\nJe développe professionnellement des applications mobiles Android et iOS depuis 2015.  \nJe donne aussi des conférences en université et meetups autour des sujets mobiles.  \nEn tant que speaker:\n- Université de Toulouse Jean Jaurès  - 2016, 2017 - Conférence \"Développement industrialisé d'applications mobiles\" (3h)\n- Meetup GDG Android Nantes - Novembre 2018 - \"Android Navigation Component\" (40mn)\n- Meetup GDG Android Nantes - Mai 2019 - \"Natif, cross-platform, ou les deux ? Introduction à Kotlin Multiplatform\" (40mn)\n\n## ENGLISH\nI develop mobile apps for Android and iOS as a professional since 2015.  \nI also deliver conference talks about mobile topics in university or meetups.  \nAs a speaker:  \n- Université de Toulouse Jean Jaurès  - 2016, 2017 - Conference \" Industrialised mobile apps developement\" (3h)\n- Meetup GDG Android Nantes - Novembre 2018 - \"Android Navigation Component\" (40mn)\n- Meetup GDG Android Nantes - Mai 2019 - \"Native, crossplatform or both ? Introducing Kotlin Multiplatform\" (40mn)\n",
+        "twitter": "@mlumeau",
         "address": "Nantes, France"
       }
     ],
@@ -665,6 +695,7 @@
         "company": "Shodo",
         "photoURL": "https://lh3.googleusercontent.com/-1QM8Xd96QWI/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jYAoPKbXBT8i9ntLzNqAiVSd7WFw/mo/photo.jpg",
         "bio": "Développeur senior chez Shodo, j'accompagne aujourd'hui Thalès Digital Factory dans la construction de leur plateforme Cloud permettant de déploiement des projets dans le monde entier de manière rapide, hautement securisé, scalable et résiliente.\n\nEn tant que craftsman, je redistribue depuis plusieurs années les connaissances acquises à travers mes expériences via des articles, BBLs, conférences et meetups.",
+        "twitter": "@JkNourry",
         "address": "France"
       },
       {
@@ -672,6 +703,7 @@
         "company": "Société Générale & OWASP fundation",
         "photoURL": "https://www.gravatar.com/avatar/610f3914d9b392b389657823719f09dd",
         "bio": "Senior Lead Developer à la Société Générale, je suis un fervent défenseur du Software Craftsmanship.\n\nJ'évangélise activement autour de DDD/Hexagonal Architecture, l'XP et le Kanban #NoEstimates au sein de cours et de conférences ainsi qu'à travers d'articles de [blog](https://beyondxscratch.com/).\n\nMembre de la fondation OWASP, je m'efforce de transmettre à la communauté une philosophie DevSecOps que je pense être l'avenir du métier de développeur. J'ai participé à la mise en place de pipeline de Continuous Security à l'échelles d'entreprises.\n",
+        "twitter": "@JulienTopcu",
         "address": null
       }
     ],
@@ -692,6 +724,7 @@
         "company": "Saagie",
         "photoURL": "https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAABtE/iqj8zP9rc0U/photo.jpg",
         "bio": "Cloud Developer @ Saagie , meetup addict & organizer @ Montpellier,  SunnyTech team.  \nDéveloppeur couteau suisse pouvant intervenir du Javascript à la table de routage. Mes passions actuelles sont le Rust, le DevOps et le Scala en plus de vouloir mettre des conteneurs partout.",
+        "twitter": "@fteychene",
         "address": "Montpellier, France"
       }
     ],
@@ -712,6 +745,7 @@
         "company": "Blue Valet",
         "photoURL": "https://avatars0.githubusercontent.com/u/5180763?v=4",
         "bio": "Développeur depuis une douzaine d'années, je m'intéresse à plein de choses, notamment : la programmation fonctionnelle, le cloud, et tout ce qui n'est pas frontend en fait (bon surtout le CSS)... J'aime partager mes expérimentations et découvertes, échanger autour d'une bière, ...",
+        "twitter": "@cyril_delmas",
         "address": "Mérignac, France"
       }
     ],
@@ -732,6 +766,7 @@
         "company": "Lectra",
         "photoURL": "https://drive.google.com/thumbnail?id=0B8S4hxfH2oQTd0tfQ21nMGVCd1U",
         "bio": "Je suis Technical Leader au centre R&D de Lectra, éditeur de logiciel dans le monde de la mode, à Bordeaux. \nJe suis un développeur Java depuis 2005, et en train de basculer petit à petit dans le monde Kotlin.\nImpliqué dans le projet open-source Asciidoctor, je suis aussi passionné par tout ce qui finit en DD : TDD, BDD, DDD, ...",
+        "twitter": "@binout",
         "address": "Bordeaux "
       }
     ],
@@ -752,6 +787,7 @@
         "company": "Société Générale",
         "photoURL": "https://lh3.googleusercontent.com/-ZvfH3jechuk/AAAAAAAAAAI/AAAAAAAAAgs/_1wfzQmwb8o/photo.jpg",
         "bio": "Développeur fullstack expérimenté, j'ai travaillé sur plusieurs sites internet « grand public » et suis sensible aux problématiques de performance relatives à ce type de site.\n\nAdepte des méthodes agiles et certifié ScrumMaster, j'aime le partage de connaissances et suis partisan de l'amélioration continue.\n\nInitialement très orienté Java/Spring, je me passionne actuellement sur l'écosystème JavaScript (en particulier NodeJS, React) qui offre de nombreuses possibilités (développement front et back, application mobile native ou desktop, etc.)",
+        "twitter": "@rodbung",
         "address": "Paris, France"
       },
       {
@@ -759,6 +795,7 @@
         "company": "Shodo",
         "photoURL": "https://lh3.googleusercontent.com/-1QM8Xd96QWI/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jYAoPKbXBT8i9ntLzNqAiVSd7WFw/mo/photo.jpg",
         "bio": "Développeur senior chez Shodo, j'accompagne aujourd'hui Thalès Digital Factory dans la construction de leur plateforme Cloud permettant de déploiement des projets dans le monde entier de manière rapide, hautement securisé, scalable et résiliente.\n\nEn tant que craftsman, je redistribue depuis plusieurs années les connaissances acquises à travers mes expériences via des articles, BBLs, conférences et meetups.\n",
+        "twitter": "@JkNourry",
         "address": "France"
       }
     ],
@@ -779,6 +816,7 @@
         "company": "Zenika",
         "photoURL": "https://drive.google.com/thumbnail?id=1W7qBOS57hzk7h_7Bo0SIqnbx0nBp8aWm",
         "bio": "Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. \nCe qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. \nFan des conférences TED et  [#TRU] (https://www.linkhumans.fr/tru/) je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech.\nJ’aime également le métal, la bière et Dikkenek ^^\n",
+        "twitter": "@marie_viley",
         "address": "Nantes, France"
       }
     ],
