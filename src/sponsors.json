@@ -140,6 +140,11 @@
     "image": "https://d29dpxox3qezd.cloudfront.net/uploads/mentor/5b3cc5a753dda14d8df77b36/logo.png?v=1554084072"
   },
   {
+    "url": "https://www.chooseyourboss.com/",
+    "title": "ChooseYourBoss",
+    "image": "https://drive.google.com/thumbnail?id=1Uf15w5RJLZyI1Z5rjN8BpH5o1UqyVIiE"
+  },
+  {
     "url": "https://www.atinternet.com",
     "title": "AT INTERNET",
     "image": "https://drive.google.com/thumbnail?id=14fUx36fpal_TrTVjDum_FD1Kcm1a-K2M"
@@ -160,6 +165,11 @@
     "image": "https://astekgroup.fr/wp-content/uploads/2017/06/logo.png"
   },
   {
+    "url": "https://promyze.com/",
+    "title": "Promyze",
+    "image": "https://promyze.com/wp-content/uploads/logo_1181_426.png"
+  },
+  {
     "url": "http://4sh.fr",
     "title": "4SH",
     "image": "https://www.4sh.fr/assets/img/svg/4sh_logo.svg"
@@ -173,5 +183,10 @@
     "url": "https://www.saagie.com",
     "title": "SAAGIE",
     "image": "http://gdurl.com/PT9L"
+  },
+  {
+    "url": "https://ineat-group.com/",
+    "title": "Ineat",
+    "image": "https://drive.google.com/thumbnail?id=1MWQGcc9UroF_bYf8ZfA5Bs2PnZ7QhBw1"
   }
 ]
